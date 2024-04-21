@@ -1,0 +1,4 @@
+Saya kenyang
+Saya makan
+Saya tidak kenyang
+Saya lapar
